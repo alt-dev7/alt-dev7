@@ -1,16 +1,13 @@
-## Hi there 👋
+# Théo Leclerc Gallois
 
-<!--
-**alt-dev7/alt-dev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur en formation **Lead Developer Java / Angular** (parcours diplômant, en alternance) chez **OpenClassrooms**.
 
-Here are some ideas to get you started:
+## Formation
+**OpenClassrooms : Lead Developer Java / Angular** (avril 2026 – février 2027)
+Parcours de 10 projets centrés sur le développement full-stack avec Java et Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+Java · Angular · React · .NET · Docker · Linux
+
+## Centres d'intérêt
+Développement full-stack, auto-hébergement, conteneurisation.
